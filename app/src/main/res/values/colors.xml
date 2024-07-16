@@ -5,6 +5,7 @@
     <color name="back_1">#161c2a</color>
     <color name="back_2">#1a2332</color>
     <color name="dark_grey">#404040</color>
+    <color name="light_grey">#bfbcbc</color>
     <color name="yellow">#fdd020</color>
 
 </resources>

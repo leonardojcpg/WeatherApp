@@ -12,21 +12,30 @@
         android:orientation="vertical">
 
         <TextView
-            android:id="@+id/title_viewHolder_hourly"
+            android:id="@+id/txtHour"
             android:layout_width="match_parent"
             android:layout_height="wrap_content"
-            android:text="TextView" />
+            android:layout_margin="8dp"
+            android:text="1 am"
+            android:textAlignment="center"
+            android:textColor="@color/light_grey"
+            android:textSize="14sp" />
 
         <ImageView
             android:id="@+id/img_cloudy"
-            android:layout_width="match_parent"
-            android:layout_height="wrap_content"
+            android:layout_width="45dp"
+            android:layout_height="45dp"
+            android:layout_gravity="center"
             app:srcCompat="@drawable/cloudy_3" />
 
         <TextView
-            android:id="@+id/subtitle_viewHolder_hourly"
+            android:id="@+id/txtTemp"
             android:layout_width="match_parent"
             android:layout_height="wrap_content"
-            android:text="TextView" />
+            android:layout_margin="8dp"
+            android:text="20"
+            android:textAlignment="center"
+            android:textColor="@color/white"
+            android:textSize="18sp" />
     </LinearLayout>
 </androidx.cardview.widget.CardView>

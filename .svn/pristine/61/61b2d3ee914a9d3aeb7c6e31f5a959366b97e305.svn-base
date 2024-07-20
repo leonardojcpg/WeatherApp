@@ -1,0 +1,28 @@
+R_DEF: Internal format may change without notice
+local
+color back_1
+color back_2
+color black
+color white
+color yellow
+drawable cloud
+drawable cloudy
+drawable cloudy_1
+drawable cloudy_2
+drawable ic_launcher_background
+drawable ic_launcher_foreground
+drawable rainy
+drawable snowy
+drawable storm
+drawable storm_1
+drawable sunny
+drawable windy
+id main
+layout home_activity
+mipmap ic_launcher
+mipmap ic_launcher_round
+string app_name
+style Base.Theme.Weather
+style Theme.Weather
+xml backup_rules
+xml data_extraction_rules

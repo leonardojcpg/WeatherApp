@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <color name="back_1">#161c2a</color>
+    <color name="back_2">#1a2332</color>
+    <color name="black">#FF000000</color>
+    <color name="white">#FFFFFFFF</color>
+    <color name="yellow">#fdd020</color>
+    <string name="app_name">Weather</string>
+    <style name="Base.Theme.Weather" parent="Theme.AppCompat.Light.NoActionBar">
+        <item name="colorPrimary">@color/back_1</item>
+        
+        
+    </style>
+    <style name="Theme.Weather" parent="Base.Theme.Weather"/>
+</resources>

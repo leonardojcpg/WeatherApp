@@ -1,0 +1,8 @@
+0000000000000000000000000000000000000000 f6ec07231403b7e554c766467429d5155005ba37 leonardoGomes <leonardojpinheirogomes@gmail.com> 1720929296 -0300	commit (initial): feat: Creating Project Weather App
+f6ec07231403b7e554c766467429d5155005ba37 f6ec07231403b7e554c766467429d5155005ba37 leonardoGomes <leonardojpinheirogomes@gmail.com> 1720929316 -0300	Branch: renamed refs/heads/master to refs/heads/main
+f6ec07231403b7e554c766467429d5155005ba37 082cc1fa5d52c905728656e20aa5d72e8052a079 leonardoGomes <leonardojpinheirogomes@gmail.com> 1721097396 -0300	commit: background_hourly.xml file created
+082cc1fa5d52c905728656e20aa5d72e8052a079 843e30e001482f4ddc84f6e1c80d76b1a8915c31 leonardoGomes <leonardojpinheirogomes@gmail.com> 1721097418 -0300	commit: file added
+843e30e001482f4ddc84f6e1c80d76b1a8915c31 946d15731268ab6bfbd5d0cb1edddd29eda47287 leonardoGomes <leonardojpinheirogomes@gmail.com> 1721097444 -0300	commit: HourlyAdapter
+946d15731268ab6bfbd5d0cb1edddd29eda47287 8d7897c05a80008c6232ffcf93c29d8f5e2f63cc leonardoGomes <leonardojpinheirogomes@gmail.com> 1721097478 -0300	commit: Hourly ViewHolder
+8d7897c05a80008c6232ffcf93c29d8f5e2f63cc 45399921640dd9a98064503dfb473a89bc8ec9a5 leonardoGomes <leonardojpinheirogomes@gmail.com> 1721097553 -0300	commit: version
+45399921640dd9a98064503dfb473a89bc8ec9a5 b22804eb2bbcf4bdc43358da2be6b04503712132 leonardoGomes <leonardojpinheirogomes@gmail.com> 1721099648 -0300	commit: creating strings in xml file to organize project

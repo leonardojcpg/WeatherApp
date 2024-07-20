@@ -1,0 +1,17 @@
+<resources>
+    <string name="app_name">Weather</string>
+<!--  home activity  -->
+    <string name="home_title">Today</string>
+    <string name="home_subtitle">Sat Jul 13</string>
+    <string name="home_img_title">Mostly Cloudly</string>
+    <string name="home_img_temp">25°C</string>
+    <string name="home_img_hiLo_temp">H:27 L:18</string>
+    <string name="home_humidity_value">18%</string>
+    <string name="home_humidity">Humidity</string>
+    <string name="home_windspeed_value">12 km/h</string>
+    <string name="home_windspeed">Wind Speed</string>
+    <string name="home_rain_value">22%</string>
+    <string name="home_rain">Rain</string>
+    <string name="home_txtRcv_1">Today</string>
+    <string name="home_txtRcv_2">Next 7 days</string>
+</resources>

@@ -1,8 +1,10 @@
-package com.example.weather;
+package com.example.weather.activities;
 
 import android.os.Bundle;
 
 import androidx.appcompat.app.AppCompatActivity;
+
+import com.example.weather.R;
 
 public class HomeActivity extends AppCompatActivity
 {

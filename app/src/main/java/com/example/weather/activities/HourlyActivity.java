@@ -1,12 +1,12 @@
-package com.example.weather.domains;
+package com.example.weather.activities;
 
-public class Hourly
+public class HourlyActivity
 {
     private String hour = "";
     private int temp = 0;
     private String picPath = "";
 
-    public Hourly(String hour, int temp, String picPath) {
+    public HourlyActivity(String hour, int temp, String picPath) {
         this.hour = hour;
         this.temp = temp;
         this.picPath = picPath;
